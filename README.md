@@ -12,7 +12,7 @@
 
 ## 🧑‍💼 About Me
 
-I'm an **operations and security professional** with **25+ years of experience** across hospitality and **8 years in security environments** spanning the **EMEA and APAC regions**. My career has been built on **reliability, process discipline, and data-driven decision making** in high-responsibility environments.
+I'm an **operations and security professional** with **18+ years of experience** across hospitality and **8 years in security environments** spanning the **EMEA and APAC regions**. My career has been built on **reliability, process discipline, and data-driven decision making** in high-responsibility environments.
 
 In my current role as a **Control Room Officer at NCR Voyix** in Belgrade, Serbia, I work extensively with security systems, access control platforms, and operational data. Through hands-on projects, I have expanded my skill set into **data analytics** — transforming raw operational data into actionable insights.
 
