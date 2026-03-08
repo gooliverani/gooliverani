@@ -17,7 +17,7 @@ I'm an **operations and security professional** with **18+ years of experience**
 In my current role as a **Control Room Officer at NCR Voyix** in Belgrade, Serbia, I work extensively with security systems, access control platforms, and operational data. Through hands-on projects, I have expanded my skill set into **data analytics** — transforming raw operational data into actionable insights.
 
 - 🔭 Currently working on **security analytics & operational dashboards**
-- 🌱 Expanding my skills in **Python, SQL, and Power BI**
+- 🌱 Expanding my skills in **Python, SQL, Tableau and Power BI**
 - 📍 Based in **Belgrade, Serbia**
 - 💼 Open to opportunities in **Data Analytics · Security Analytics · Data Engineering · Hybrid Operational/Data Roles**
 
