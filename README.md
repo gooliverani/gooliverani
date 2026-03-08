@@ -54,7 +54,7 @@ In my current role as a **Control Room Officer at NCR Voyix** in Belgrade, Serbi
 - 🏢 **Control Room Officer** at **NCR Voyix** (Nov 2020 – Present)
 - 🌍 Monitored and managed access control systems across **20+ locations**
 - 👥 Supported daily security operations for facilities serving **15,000+ employees/visitors**
-- 📊 Built **Power BI dashboards** to track security metrics and operational KPIs
+- 📊 Built **Power BI and Tableau dashboards** to track security metrics and operational KPIs
 - 🗃️ Used **SQL and Excel** to extract and analyze data from internal systems
 - 🔍 Analyzed incident and access data to **identify patterns and improve response procedures**
 - 🤝 Collaborated with cross-functional teams to improve **compliance and reporting accuracy**
