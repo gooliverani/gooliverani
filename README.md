@@ -35,6 +35,14 @@ In my current role as a **Control Room Officer at NCR Voyix** in Belgrade, Serbi
 
 ---
 
+## 📂 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🐍 [**python_projects**](https://github.com/gooliverani/python_projects) | A collection of Python projects for data cleaning, transformation, and automation | Python |
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
