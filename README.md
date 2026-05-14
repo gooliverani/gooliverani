@@ -12,9 +12,9 @@
 
 ## 🧑‍💼 About Me
 
-I'm an **operations and security professional** with **18+ years of experience** across hospitality and **8 years in security environments** spanning the **EMEA and APAC regions**. My career has b[...]
+I'm an **operations and security professional** with **18+ years of experience** across hospitality and **8 years in security environments** spanning the **EMEA and APAC regions**. My career has been defined by operational excellence, cross-functional collaboration, and a commitment to continuous improvement.
 
-In my current role as a **Control Room Officer at NCR Voyix** in Belgrade, Serbia, I work extensively with security systems, access control platforms, and operational data. Through hands-on projec[...]
+In my current role as a **Control Room Officer at NCR Voyix** in Belgrade, Serbia, I work extensively with security systems, access control platforms, and operational data. Through hands-on project work, I've developed practical skills in data analytics, visualization, and engineering.
 
 - 🔭 Currently working on **security analytics & operational dashboards**
 - 🌱 Expanding my skills in **Python, SQL, Tableau and Power BI**
@@ -35,12 +35,21 @@ In my current role as a **Control Room Officer at NCR Voyix** in Belgrade, Serbi
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🐍 [**python_projects**](https://github.com/gooliverani/python_projects) | A collection of Python projects for data cleaning, transformation, and automation | Python |
-| 🏗️ [**_farosplus**](https://github.com/gooliverani/_farosplus) | Official corporate website for Faros Plus — a bilingual (EN/SR) static multi-page site for a professional construction finishing company in Belgrade | HTML · CSS · JavaScript |
+| 🐍 [**python_projects**](https://github.com/gooliverani/python_projects) | A collection of Python projects demonstrating core programming concepts including OOP, file handling, data validation, and interactive CLI applications | Python |
+| 🏗️ [**_farosplus**](https://github.com/gooliverani/_farosplus) | Official corporate website for Faros Plus — a bilingual (EN/SR) static multi-page site for a professional construction finishing company in Belgrade | HTML / CSS / JS |
+| ☁️ [**databricks_bootcamp_2026**](https://github.com/gooliverani/databricks_bootcamp_2026) | End-to-end Data Lakehouse project on Databricks following the Medallion Architecture (Bronze, Silver, Gold) using Spark, PySpark, SQL, Delta Lake, and Unity Catalog | Jupyter / PySpark / SQL |
+| 📊 [**Power_BI_Dashboards**](https://github.com/gooliverani/Power_BI_Dashboards) | A collection of Power BI dashboards tracking my journey from foundational reports to advanced interactive analyses | Power BI |
+| 📈 [**Tableau_Projects**](https://github.com/gooliverani/Tableau_Projects) | A collection of Tableau dashboards from foundational visualizations to advanced interactive analyses | Tableau / Python |
+| 🗃️ [**sql-data-warehouse-project**](https://github.com/gooliverani/sql-data-warehouse-project) | Building a modern data warehouse with SQL Server, including ETL processes, data modeling, and analytics | T-SQL |
+| 📉 [**sql-data-analytics-project**](https://github.com/gooliverani/sql-data-analytics-project) | A collection of SQL scripts demonstrating analytical techniques: changes over time, cumulative analysis, performance, segmentation, and part-to-whole analysis | T-SQL |
+| 🔐 [**AccessControl-SQLite_Project**](https://github.com/gooliverani/AccessControl-SQLite_Project) | SQLite database managing access control systems for a multi-location organization | SQLite |
+| 🎓 [**CS50-P-W-SQL-project**](https://github.com/gooliverani/CS50-P-W-SQL-project) | CS50 courses — CS50, CS50P, CS50W and CS50SQL with associated projects | HTML / Python / SQL |
+| 🌐 [**hello**](https://github.com/gooliverani/hello) | Web Programming with Python and JavaScript (CS50W) | HTML / Python / JS |
+| 🏢 [**FarosPlus**](https://github.com/gooliverani/FarosPlus) | Earlier version of the Faros Plus company website | HTML |
 
 ---
 
